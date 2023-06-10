@@ -3,24 +3,23 @@ Discipline Incident Power App for Teams
 
 V1 of the Discipline Incident Reporting System for Power Apps for Teams.
 
-Features
+<h2>Features</h2>
 
-Opening Screen:
+Opening Screen:<BR>
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/DisciplineAppLandingPage.png">
-
-Incicdent by students
+<BR><BR>
+Incicdent by students<BR>
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/NewDisciplineIncident.png">
-
-New incidet
+<BR><BR>
+New incidet<BR>
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/NewIncident.png">
-
-What remediation actions were taken.
+<BR><BR>
+What remediation actions were taken.<BR>
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/Action%20Pane.png">
-
-Reporting screen
+<BR><BR>
+Reporting screen<BR>
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/DisciplineAppReport.png">
-
-
+<BR>
 
 Pre-requisites:
 * Microsoft Teams
