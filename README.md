@@ -8,12 +8,17 @@ Features
 Opening Screen:
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/DisciplineAppLandingPage.png">
 
-<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/Action%20Pane.png">
-<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/Action%20Pane.png">
+Incicdent by students
+<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/NewDisciplineIncident.png">
+
+New incidet
+<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/NewIncident.png">
+
+What remediation actions were taken.
 <img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/Action%20Pane.png">
 
-
-<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/Action%20Pane.png">
+Reporting screen
+<img src="https://github.com/Pragmatic-Works/Discipline-Power-App/blob/main/Screenshots/DisciplineAppReport.png">
 
 
 
