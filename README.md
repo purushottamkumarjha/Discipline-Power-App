@@ -1,8 +1,13 @@
 # Discipline-Power-App
 Discipline Incident Power App for Teams
 
-V1 of the Discipline Incident Reporting System for Power Apps for Teams.
-
+Pragmatic Works interviewed and received the forms from dozens of school districts on how they do discipline inside their school. The Discipline Incident Reporting System for Power Apps for Teams replacing manual paperwork for logging discipline issues and remediation actions. The app is customizable easily to match whatever you wish for your district or school and only requires a Teams license.
+<h2>Video of Features and Installation Instructions</h2>
+<B>Click on the below image to watch the YouTube video on the features, installation and configuration of the Power App. </B>
+<BR>
+<a href="https://www.youtube.com/embed/se2s_MZFjLU">
+  <img src="https://img.youtube.com/vi/se2s_MZFjLU/maxresdefault.jpg">
+  </a>
 <h2>Features</h2>
 
 Opening Screen:<BR>
